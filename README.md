@@ -1,4 +1,4 @@
-# ROOT.KEYRING.EXE
+# ROOT.LOCKSY.EXE
 
 A local-first, browser-based password manager with a hacker terminal aesthetic. All credentials are encrypted and stored entirely in your browser — no servers, no accounts, no network calls.
 
